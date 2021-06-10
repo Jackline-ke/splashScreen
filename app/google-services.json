@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "723314325531",
+    "project_id": "authentiacationdemo-320c7",
+    "storage_bucket": "authentiacationdemo-320c7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:723314325531:android:7a6f80b52600ea3a1060be",
+        "android_client_info": {
+          "package_name": "com.example.splashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "723314325531-bb9otovbv5lsres0aps1228op1lv2b8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzGBSGXWzoJg7EMmmvwrepkZJyVSt5OSo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "723314325531-bb9otovbv5lsres0aps1228op1lv2b8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

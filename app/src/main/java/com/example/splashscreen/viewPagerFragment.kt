@@ -21,7 +21,7 @@ class viewPagerFragment : Fragment() {
                 Fragment2(),
                 Fragment3()
         )
-        //create an adapter variable the initialize the viewPagerAdapter
+        //create an adapter variable then initialize the viewPagerAdapter
         val viewPager2: ViewPager2 = view.findViewById(R.id.viewPager)
         val adapter = viewPagerAdapter(fragmentList,requireActivity().supportFragmentManager,lifecycle)
         viewPager2.adapter = adapter
