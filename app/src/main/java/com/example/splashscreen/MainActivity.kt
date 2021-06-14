@@ -1,4 +1,4 @@
-package com.example.splashscreen
+  package com.example.splashscreen
 
 import android.content.Intent
 import androidx.appcompat.app.AppCompatActivity
